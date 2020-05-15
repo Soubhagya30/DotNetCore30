@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{68A32F3A-4875-452A-8BCE-9F066515DFD7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="dotnetCore30/Pages/Charge.cshtml.cs">
+    <Files>
+      <File FileName="dotnetCore30/Pages/Payment.cshtml.cs" Line="18" Column="1" />
+      <File FileName="dotnetCore30/Pages/Payment.cshtml" Line="32" Column="8" />
+      <File FileName="dotnetCore30/Pages/Charge.cshtml" Line="14" Column="15" />
+      <File FileName="dotnetCore30/Pages/Charge.cshtml.cs" Line="20" Column="14" />
+      <File FileName="dotnetCore30/Pages/Shared/_Layout.cshtml" Line="27" Column="3" />
+      <File FileName="dotnetCore30/Pages/_ViewStart.cshtml" Line="2" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="dotnetCore30" expanded="True">
+            <Node name="dotnetCore30" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True" />
+                <Node name="Charge.cshtml" expanded="True">
+                  <Node name="Charge.cshtml.cs" selected="True" />
+                </Node>
+                <Node name="Payment.cshtml" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.dotnetCore30 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/soubhagyalaxmig/Desktop/dotnetCore30/dotnetCore30/Pages/Charge.cshtml.cs" relfile="dotnetCore30/Pages/Charge.cshtml.cs" line="16" column="1" />
+      <Breakpoint file="/Users/soubhagyalaxmig/Desktop/dotnetCore30/dotnetCore30/Pages/Charge.cshtml.cs" relfile="dotnetCore30/Pages/Charge.cshtml.cs" line="17" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
